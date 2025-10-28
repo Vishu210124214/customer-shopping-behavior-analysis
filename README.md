@@ -44,7 +44,7 @@ To help businesses understand customer behavior and optimize marketing strategie
 ---
 
 ## 📊 Dashboard Preview
-*(Insert an image or screenshot of your Power BI dashboard here)*
+*"C:\Users\User\Pictures\Screenshots\Screenshot 2025-10-28 164438.png"*
 
 ---
 
