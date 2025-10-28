@@ -44,7 +44,8 @@ To help businesses understand customer behavior and optimize marketing strategie
 ---
 
 ## 📊 Dashboard Preview
-*"C:\Users\User\Pictures\Screenshots\Screenshot 2025-10-28 164438.png"*
+*<img width="958" height="683" alt="Screenshot 2025-10-28 164438" src="https://github.com/user-attachments/assets/add9d361-ed39-47a0-b7d4-86ee28afb349" />
+*
 
 ---
 
